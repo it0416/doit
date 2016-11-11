@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<question>
+		<id>0</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Im Head-Breich einer Webseite befindet sich folgendes HTML-Tag &lt;head&gt;…&lt;link rel="stylesheet" type="text/css" href="style.css"&gt;&lt;/head&gt;. Welche Auswirkung hat das HTML-Tag "link" auf die Darstellung im Browser?</question>
+		<proposals>
+			<a>#Einbinden des Verweises auf die Datei style.css. Die Datei beinhaltet die Formartierungsinhalte zu den verwendeten Tags.</a>
+			<b>Einbinden des Verweises auf einer andere Webseite.</b>
+			<c>Einbinden des Verweises auf die Datei stylesheet. Die Datei beinhaltet die Formartierungsinhalte zu den verwendeten Tags.</c>
+			<d>Einbinden des Verweises auf die Datei style.css. Die Datei beinhaltet die Formartierungsinhalte der Textarea css.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>1</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Im Head-Breich einer Webseite befindet sich folgendes HTML-Tag &lt;head&gt;…&lt;link rel="stylesheet" type="text/css" href="style.css"&gt;&lt;/head&gt;. Wieso ist die gewählte Realisierung für eine einheitliche Webseitengestaltung (Corporate Design) besonders günstig?</question>
+		<proposals>
+			<a>#Webseiten können leichter von verschiedenen Personen erstellt werden.</a>
+			<b>#Die Datei ist auch für andere HTML-Seiten zu verwenden (CD).</b>
+			<c>#Änderungen des Designs (Schriftart, -größe, Hintergrundfarbe...) erfolgen nur einmal zentral für alle Dokumente.</c>
+			<d>Webseiten können nur von einer Personen erstellt werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>2</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Das Projekt "IT-Restrukturierung" soll geplant werden. Die Softwareentwicklung kann nach verschiedenen Vorgehensmodellen erfolgen. Welche der folgenden Anworten trifft auf das Wasserfallmodell zu? </question>
+		<proposals>
+			<a>Jede Phase wird linear mehrmals durchlaufen.</a>
+			<b>#Jede Phase hat Start- und Endpunkt sowie ein defieniertes Ergebnis.</b>
+			<c>#Jedes Phasenergebnis ist die bindende Vorgabe für die folgende Phase.</c>
+			<d>Entwicklungsfehler fallen früh auf.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>3</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Das Projekt "IT-Restrukturierung" soll geplant werden. Die Softwareentwicklung kann nach verschiedenen Vorgehensmodellen erfolgen. Welche der folgenden Anworten trifft auf das Wasserfallmodell zu? </question>
+		<proposals>
+			<a>#Aufteilung des Vorgehens in Phasen.</a>
+			<b>Ein Fluss kann dargestellt werden.</b>
+			<c>Jeder Durchlauf beginnt mit einer ernauten Planung, dadurch können Risiken früh erkannt und der Entwicklungsprozess angepasst werden.</c>
+			<d>#Da jede Phase linear nur einmal durchlaufen wird, besteht das Risiko, dass Analyse-, Planungs- oder Entwicklungsfehler erst spät auffallen.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>5</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Das Projekt "IT-Restrukturierung" soll geplant werden. Die Softwareentwicklung kann nach verschiedenen Vorgehensmodellen erfolgen. Welche der folgenden Anworten trifft auf das Spiralmodell zu? </question>
+		<proposals>
+			<a>#Basiert auf dem Wasserfallmodell.</a>
+			<b>#Phasen werden mehrfach durchlaufen.</b>
+			<c>#Jeder Durchlauf beginnt mit einer erneuten Planung, dadurch können Risiken früh erkannt und der Entwicklungsprozess angepasst werden.</c>
+			<d>Basiert auf dem V-Modell.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>6</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Das Projekt "IT-Restrukturierung" soll geplant werden. Die Softwareentwicklung kann nach verschiedenen Vorgehensmodellen erfolgen. Welche der folgenden Anworten trifft auf das V-Modell zu? </question>
+		<proposals>
+			<a>#Basiert auf dem Wasserfallmodell.</a>
+			<b>#Jeder Entwurfsphase wird jeweils eine entsprechende Testphase gegenübergestellt. Damit wird eine vollständige Testabdeckung angestrebt.</b>
+			<c>#Das Risiko bleibt jedoch, dass Analyse-, Planungs- oder Entwicklungsfehler spät auffallen.</c>
+			<d> Analyse-, Planungs- oder Entwicklungsfehler fallen früh auf.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>7</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Das Projekt "IT-Restrukturierung" soll geplant werden. Die Softwareentwicklung kann nach verschiedenen Vorgehensmodellen erfolgen. Welche der folgenden Anworten trifft auf Extreme Programing zu? </question>
+		<proposals>
+			<a>#Strukturiertes Vorgehen mit Teamaarbeit, Offenheit und stetiger Kommunikation zwischen Entwicklern und Kunden. Die erst im Laufe des Projekts erkannten Anforderungen können so jederzeit berücksichtigt werden.</a>
+			<b>#Zielsetzungen sind eine schnelle Fertigstellung, eine gute Softwarequalität und eine Große Kundenzufriedenheit.</b>
+			<c>Die erst im Laufe des Projekts erkannten Anforderungen können so erst am Ende nach rücksprache mit dem Kunden berücksichtigt werden.</c>
+			<d>Basiert auf dem Wasserfallmodell.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>8</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche Informationen können Sie in einem GANTT-Diagramm darstellen?</question>
+		<proposals>
+			<a>#Alle Vorgänge eines Projekts</a>
+			<b>#Start und Endzeitpunkt je Vorgang.</b>
+			<c>Zeitreserven (Puffer).</c>
+			<d>Überschneidungen von Vorgängen und Dauer der Überschneidungen sind nicht ersichtlich.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>9</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche Informationen können Sie in einem GANTT-Diagramm darstellen?</question>
+		<proposals>
+			<a>Einen Vorgang eines Projekts.</a>
+			<b>Nur der Endzeitpunkt je Vorgang.</b>
+			<c>#Dauer eines Vorgangs.</c>
+			<d>#Überschneidungen von Vorgängen und Dauer der Überschneidungen.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>10</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche Informationen können Sie in einem GANTT-Diagramm darstellen?</question>
+		<proposals>
+			<a>#Start- und Enddatum eines Projekts.</a>
+			<b>#Start und Endzeitpunkt je Vorgang.</b>
+			<c>Logische und zeitliche Abhängigkeiten der Vorgänge.</c>
+			<d>Überschneidungen von Vorgängen und Dauer der Überschneidungen sind nicht ersichtlich.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>11</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche Informationen können Sie nur einem Netzplan entnehmen?</question>
+		<proposals>
+			<a>#Logische und zeitliche Abhängigkeiten der Vorgänge.</a>
+			<b>Dauer eines Vorgangs.</b>
+			<c>#Zeitreserven (Puffer).</c>
+			<d>Entwicklungsfehler fallen früh auf.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>12</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche Informationen können Sie nur einem Netzplan entnehmen?</question>
+		<proposals>
+			<a>Start- und Enddatum eines Projekts.</a>
+			<b>#Frühester und spätester Start- und Endzeitpunkt eines Vorgangs.</b>
+			<c>Dauer eines Vorgangs.</c>
+			<d>#Zeitlich Engpass (Kritischer Pfad).</d>
+		</proposals>
+	</question>
+	<question>
+		<id>13</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Durch Mausklick auf ein gezeigtes Produktbild von Metallkisten soll auf die entsprechende Produktwebseite "metall.html" verlinkt werden. Bei der Codierung des HTML-Tags ist zu beachten, dass die Startseite und Produktwebseite im selben Ordner liegen, das Produktbild (metallkisten.jpg) liegt in dem Unterordner "images" dieses Ordners und bei nicht verfügbarem Produktbild soll ein Alternativtext angezeigt werden. Welcher der folgenden HTML-Tags ist richtig? </question>
+		<proposals>
+			<a>#&lt;a href="metall.html"&gt;&lt;img src="images/metallkisten.jpg" alt="Metallkisten"   /&gt;Metallkisten&lt;/a&gt;</a>
+			<b>&lt;a href="metall.html"&gt;&lt;img src="metallkisten.jpg" alt="Metallkisten"   /&gt;Metallkisten&lt;/a&gt;</b>
+			<c>&lt;a href="metall.html"&gt;&lt;img src="metallkisten.jpg" alt="Metallkisten"   /&gt;Metallkisten&lt;/&gt;</c>
+			<d>&lt;a href="metall.html"&gt;&lt;img="metallkisten.jpg" alt="Metallkisten"   /&gt;Metallkisten&lt;/a&gt;</d>
+		</proposals>
+	</question>
+	<question>
+		<id>14</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche der folgenden Behauptungen sind richtig?</question>
+		<proposals>
+			<a>#Fehlerhafte HTML-Anweisungen werden von den Browsern ignoriert.</a>
+			<b>HTML-Formulare können nur zum Mailversand benutzt werden.</b>
+			<c>#Der Link &lt;A HREF= " #Fehler"&gt; verweist auf einen Anker im gleichen Dokument.</c>
+			<d>Der Inhalt des TITLE-Tags kann mit HTML-Befehlen forma&amp;rt werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>15</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche der folgenden Behauptungen sind falsch?</question>
+		<proposals>
+			<a>Die HTML-Anweisung &lt;font size= "+3 " &gt; ... &lt;/font&gt; formatiert die verwendete, normalgroße Schrift in der Größe "6".</a>
+			<b>#CSS-formatierte Seiten sehen endlich in allen Browsern bzw. auch allen Browserversionen immer gleich aus.</b>
+			<c>#In CSS-Styleangaben ist der Zusatz "hover" (z.B. a: hover) nur für das Anker-Tag gestattet.</c>
+			<d>Eine externe CSS-Datei muss nicht auf dem gleichen Server sein wie die zu formatie rende HTML-Datei.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>16</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Um ein Wort in Arial 14pt zu formatieren, ist/sind folgende Anweisung(en) richtig:</question>
+		<proposals>
+			<a>&lt;font face= "Arial" size= "14" &gt;...</a>
+			<b>&lt;font face= "Arial" style="font-size= 14;" &gt;…</b>
+			<c>#&lt;span style="font-family:Arial; font-size:14pt;"&gt;</c>
+			<d>Keine Anweisung ist richtig.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>17</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>In einem Absatz/Abschnitt soll fett formatierter Text zusätzlich "automatisch" in rot erscheinen. Welche CSS-Angabe(n) ist/sind korrekt?</question>
+		<proposals>
+			<a>div:b {color:red;}</a>
+			<b>div.b {color: red;}</b>
+			<c>#div b {color: red;}</c>
+			<d>div,b {color:red;}</d>
+		</proposals>
+	</question>
+	<question>
+		<id>18</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Javacript (JS)…</question>
+		<proposals>
+			<a>#...ist eine objektbasierte Programmiersprache.</a>
+			<b>...ist eine objektorientierte Programmiersprache.</b>
+			<c>...Programme werden auf dem Webserver ausgeführt.</c>
+			<d>#...Programme werden vom Browser der User ausgeführt</d>
+		</proposals>
+	</question>
+	<question>
+		<id>19</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Sie haben folgende CSS-Formatierung angegeben: div.pix { background-image:url (" .. /pixx/SchickesBil d.png"); background-repeat:repeat-y; }</question>
+		<proposals>
+			<a>Jeder, mit &lt;div&gt;-formatierte, Absatz erhält jetzt ein Hintergrundbild.</a>
+			<b>#Das Hintergrundbild wird senkrecht gekachelt.</b>
+			<c>Die Formatierung ist verkehrt, Hintergrundbilder sind nur für das BODY-Tag erlaubt.</c>
+			<d>#Mit &lt;div class="pix"&gt;-formatierte Absätze erhalten ein Hintergrundbild.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>20</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Nenen Sie den Zweck eines Gantt-Diagramms</question>
+		<proposals>
+			<a>#Darstellung von Aktivitäten auf einer Zeitachse</a>
+			<b>Darstellung von Kosten pro Stück</b>
+			<c>Bestimmung des Break Even Point's</c>
+			<d>Darstellung der Überstunden</d>
+		</proposals>
+	</question>
+	<question>
+		<id>21</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Aufgaben eines Datenschutzbeauftragten.</question>
+		<proposals>
+			<a>#Überwachung der ordnungsgemäßen Verarbeitung der Daten</a>
+			<b>#Belehrung der Mitarbeiter, die mit personenbezogenen Daten arbeiten, über die Erfordernisse des Datenschutzes</b>
+			<c>Administrationszuweisung</c>
+			<d>Bestimmung über die Firewall</d>
+		</proposals>
+	</question>
+	<question>
+		<id>22</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Eine wesentliche Grundlage für die Projektplanung ist das Lastenheft. Nennen Sie Inhalt und Verfasser eines Lastenheftes </question>
+		<proposals>
+			<a>#Darstellung des Bedarfs/Sollkonzeptes</a>
+			<b>#Auftraggeber</b>
+			<c>Arbeitgeber</c>
+			<d>Darstellung des Verbrauchs</d>
+		</proposals>
+	</question>
+	<question>
+		<id>23</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Im Rahmen des Projektes sollen Sie bei der DOIT AG für einen geschäftsprozess eine IST-Analyse durchführen. Nennen Sie zwei Erhebungsmethoden, die bei der IST-Analyse eines Geschäftsprozesses eingesetzt werden können.</question>
+		<proposals>
+			<a>#Mündliche Befragung von Prozessbeteiligten</a>
+			<b>#Beobachtung</b>
+			<c>Videobeobachtung</c>
+			<d>E-Mail Kontrolle</d>
+		</proposals>
+	</question>
+	<question>
+		<id>24</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Zur Softwareentwicklung will die DOIT GmbH ein CASE-Tool einsetzten. Nennen Sie zwei Vorteile, die ein CASE-Tool bei der Softwareentwicklung bietet.</question>
+		<proposals>
+			<a>#Schnellere Umsetztung von Projekten durch Teamarbeit</a>
+			<b>#Schnellere Umsetztung von Projekten durch Versionsverwaltung</b>
+			<c>Bessere Übersicht über die Resturlaubstage</c>
+			<d>Die Gewerkschaft hat einen besseren Überblick über die Pauseneinhaltung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>25</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Zur Softwareentwicklung will die DOIT GmbH ein CASE-Tool einsetzten. Nennen Sie zwei Werkzeuge eines CASE-Tools.</question>
+		<proposals>
+			<a>#Debuuger</a>
+			<b>#Diagrammerstellung(UML, ER)</b>
+			<c>Voice Over IP</c>
+			<d>TCP/IP Protokolle</d>
+		</proposals>
+	</question>
+	<question>
+		<id>26</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Im Rahmen des Projektrisikomanagements sollen Sie eine Liste mit Projektrisiken erstellen. Nenen Sie drei Projektrisiken.</question>
+		<proposals>
+			<a>#Finanzielle Risiken</a>
+			<b>#Terminliche Risiken</b>
+			<c>#Umwelt Risiken</c>
+			<d>Plagiat Risiken</d>
+		</proposals>
+	</question>
+	<question>
+		<id>27</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Im Rahmen des Projektrisikomanagements sollen Sie eine Liste mit Projektrisiken erstellen. Nenen Sie drei Projektrisiken.</question>
+		<proposals>
+			<a>#Qualitätsrisiken</a>
+			<b>#Technische Risiken</b>
+			<c>#Personelle Risiken</c>
+			<d>Garantie Risiken</d>
+		</proposals>
+	</question>
+	<question>
+		<id>28</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nenen Sie drei Rechte, die Personen gemäß Bundesdatenschutzgesetz (BDGS) haben, deren Daten von der DOIT AG gespeichert werden.</question>
+		<proposals>
+			<a>#Benachrichtigung bei erstmaliger Speicherung personenbezogener Daten</a>
+			<b>#Berichtigung der Daten, wenn sie falsch sind</b>
+			<c>#Auskunft über die zu seiner Person gespeicherten Daten und an wen sie regelmäßig weitergegeben werden</c>
+			<d>Bestimmung des Ortes, wo die Daten gespeichert werden(NAS, Cloud, usw…)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>29</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Aufgaben eines Datenschutzbeauftragten.</question>
+		<proposals>
+			<a>#Mitwirkung bei der Auswahl der Personen, die mit schützenswerten daten arbeiten.</a>
+			<b>#Übersicht über die gespeicherten personenbezogenen Daten sowie der eingesetzten IT-Anlagen verschaffen.</b>
+			<c>Bestimmung bei der Auswahl von Passwörtern</c>
+			<d>Verwaltung von Passwörtern</d>
+		</proposals>
+	</question>
+	<question>
+		<id>30</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Markieren Sie zum Thema Grundlagen Datenbanken die zwei richtigen Antworten.</question>
+		<proposals>
+			<a>#Primärschlüssel können aus drei Fremdschlüsseln zusammengesetzt werden.</a>
+			<b>#Sub-Selects dürfen nicht nur in der WHERE-Klausel einer SELECT-Anweisung vorkommen</b>
+			<c>Ein Join besetht immer zwischen mindestens drei Tabellen.</c>
+			<d>Die Reihenfolge der einzelnen Teile einer SELECT-Anweisung kann frei gewählt und ausgetauscht werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>31</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Aussage zu Datenbanken ist richtig? Die häufigste Beziehung zwischen Tabellen ist die:</question>
+		<proposals>
+			<a>1:1 - Beziehung</a>
+			<b>#1:n - Beziehung</b>
+			<c>m:n - Beziehung</c>
+			<d>Wochenend - Beziehung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>32</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Aussage zu Datenbanken ist richtig? Eine Master-Deteil-Beziehung besteht zwischen:</question>
+		<proposals>
+			<a>#Zwei Tabellen</a>
+			<b>Zwei Datenbanken</b>
+			<c>Einer Tabelle und der dazugehörigen Abfrage</c>
+			<d>Einer Domina-Tabelle und ihren sklavischen(=untergeordneten) Datenfeldern</d>
+		</proposals>
+	</question>
+	<question>
+		<id>33</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Aussage zu Datenbanken ist richtig? Ein Entity ist:</question>
+		<proposals>
+			<a>Eine Tabelle in der Datenbank</a>
+			<b>Eine Spalte einer Tabelle</b>
+			<c>#Eine Zeile einer Tabelle</c>
+			<d>Ein Schlüssel aus mehreren Spalten kombiniert</d>
+		</proposals>
+	</question>
+	<question>
+		<id>34</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Aussage zu Datenbanken ist richtig? Ein Join bei SQL ist:</question>
+		<proposals>
+			<a>Das Ergebnis jeder Abfrage</a>
+			<b>Ein anderes Wort für Sub-Selects</b>
+			<c>#Das Verknüpfen von Tabellen für eine Abfrage</c>
+			<d>Ein Schreibfehler, es heißt Joint!</d>
+		</proposals>
+	</question>
+	<question>
+		<id>35</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Abkürzung BDSG steht für:</question>
+		<proposals>
+			<a>#Bundes Datenschutz Gesetz</a>
+			<b>Bit Digital System Guide</b>
+			<c>Betriebs Digitalisierungs Schutz Gesetz</c>
+			<d>Binary Data Security Guide</d>
+		</proposals>
+	</question>
+	<question>
+		<id>36</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die DOIT AG transferiert täglich abends die seit dem letzten Backup geänderten Daten mit Hilfe der Internetleitung auf einen Rechner eines Dienstleisters in Düsseldorf. Handelt es sich hierbei um eine Maßnahme:</question>
+		<proposals>
+			<a>#Der Datensicherung</a>
+			<b>Der Datensicherheit</b>
+			<c>Des Datenschutzes</c>
+			<d>Des Datenschatzes</d>
+		</proposals>
+	</question>
+	<question>
+		<id>37</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die DOIT AG transferiert täglich abends die seit dem letzten Backup geänderten Daten mit Hilfe der Internetleitung auf einen Rechner eines Dienstleisters in Düsseldorf. Wie wird diese Backup-Methode bezeichnet?</question>
+		<proposals>
+			<a>#Inkrementelles Backup</a>
+			<b>Differenzielles Backup</b>
+			<c>Sync Backup</c>
+			<d>Nano Backup</d>
+		</proposals>
+	</question>
+	<question>
+		<id>38</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Markieren Sie zum Thema Grundlagen-Programmierung die zwei richtigen Antworten.</question>
+		<proposals>
+			<a>Die Umkehrung der Bedingung "bis A&lt;B" ist "solange B&gt;A"</a>
+			<b>#Bei FOR-Schleifen darf der Schleifenzähler auch dekrementiert werden.</b>
+			<c>#Einschleifen können auch zweiundvierzigmal(42X) laufen.</c>
+			<d>Eine Schaltvariable muß vom Datentyp "boolean" sein.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>39</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Was ist eine "Nullschleife"?</question>
+		<proposals>
+			<a>#Eine Kopfschleife. Die Prüfung erfolgt am Anfang.</a>
+			<b>Eine IF-Schleife. Die Prüfung erfolgt am Anfang.</b>
+			<c>Eine Endschleife. Die prüfung erfolgt am Ende.</c>
+			<d>Eine FOR-Schleife. Die Prüfung ist permanent.</d>
+		</proposals>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+	<question>
+		<proposals/>
+	</question>
+</questions>

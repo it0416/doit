@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<question>
+		<id>0</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche drei Eigenschaften kennzeichnen im wesentlichen das Cloud Computing?</question>
+		<proposals>
+			<a>#IT-Infrastruktur und Anwendungen werden online angeboten.</a>
+			<b>#Systeme sind skalierbar.</b>
+			<c>#Leistungen werden nach Nutzervolumen bezahlt.</c>
+			<d>Der Datenschutz kann 100 %ig sichergestellt werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>1</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Eigenschaften kennzeichnen im wesentlichen das Cloud Computing?</question>
+		<proposals>
+			<a>#Cloudanbieter sichern eine sehr hohe Verfügbarkeit der Infrastruktur und Anwendungen zu.</a>
+			<b>#Anwendungen können online von verschiedenen Frontendgeräten aufgerufen werden.</b>
+			<c>Daten sind bei Providern sicher, Firmendaten können nicht ausgespäht werden.</c>
+			<d>Online-Anwendungen können vom eigenem Unternehmen schnell repariert werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>2</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Cloud-Anwendungen, die bereits heute im Privatbereich genutzt werden.</question>
+		<proposals>
+			<a>#Web-Mail, z.B. web.de, gmx.de</a>
+			<b>#APS-Angebote und Musikportale, z. B. von "Apple"</b>
+			<c>Online-News-Feed, z.B. "heise online"</c>
+			<d>FTP-Server</d>
+		</proposals>
+	</question>
+	<question>
+		<id>3</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Cloud-Anwendungen, die bereits heute im Privatbereich genutzt werden.</question>
+		<proposals>
+			<a>#Angebote im Social Network, z. B. von "Facebook"</a>
+			<b>#Kommunikationsplattformen, z. B. "Twitter"</b>
+			<c>Wetter-Online-Dienst, z.B. "Wetter.com"</c>
+			<d>Newsticker, z.B. "Welt"</d>
+		</proposals>
+	</question>
+	<question>
+		<id>4</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Beispiele für eine SaaS.</question>
+		<proposals>
+			<a>#Office-Anwendungen (z. B. Textverarbeitung, Tabellenkalkulationen, Präsentationen)</a>
+			<b>#ERP (Enterprise-Resource-Planing)</b>
+			<c>EMR (Enterprise-Master-Recruting)</c>
+			<d>CRM (Customer Realationship Magnet)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>5</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie drei Beispiele für eine SaaS.</question>
+		<proposals>
+			<a>#CRM (Customer Realationship Management)</a>
+			<b>#Content Management</b>
+			<c>#Dokumenten-/Archivverwaltung</c>
+			<d>EMR (Enterprise-Master-Recruting)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>6</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Argumente sprechen gegen Cloud Computing?</question>
+		<proposals>
+			<a>#Online-Anwendungen können ausfallen und Unternehmen in schwierige Situationen ohne funktionierende IT-Anwendungen führen.</a>
+			<b>#Daten sind bei Providern nicht sicher, Firmendaten könnten ausgespäht werden.</b>
+			<c>Online-Anwendungen können vom eigenem Unternehmen schnell repariert werden.</c>
+			<d>Der Datenschutz kann bei Providern 100 %ig sichergestellt werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>7</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Argumente sprechen gegen Cloud Computing?</question>
+		<proposals>
+			<a>Der Datenschutz kann bei Providern 100 %ig sichergestellt werden.</a>
+			<b>Daten sind bei Providern sicher, Firmendaten können nicht ausgespäht werden.</b>
+			<c>#Der Datenschutz kann bei Providern nicht 100 %ig sichergestellt werden.</c>
+			<d>#Man macht sich von Providern rechtlich und technologisch abhängig, verliert an Flexibilität.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>8</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Was versteht man unter SLA (Service-Level-Agreement)?</question>
+		<proposals>
+			<a>#Teil eines Dienstvertrages, in dem die Servicestufen festgehalten sind.</a>
+			<b>Teil eines Dienstvertrages, in dem die Leistungsstufen festgehalten sind.</b>
+			<c>Teil eines Arbeitstvertrages, in dem die Gehaltsstufen festgehalten sind.</c>
+			<d>Teil eines Servicevertrages, in dem die Dienststufen festgehalten sind.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>9</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen die beiden Vereinbarungen in Deutsch - "mean time between failures" (MTBF) and "mean time to repair"/"mean time to recovery" (MTTR) - die laut englischem Text in der Regel in eine SLA aufgenommen werden.</question>
+		<proposals>
+			<a>#Durchschnittliche Betriebszeit zwischen zwei Ausfällen (MTBF)</a>
+			<b>#Durchschnittliche Reparaturdauer/durchschnittliche Wiederherstellungsdauer (MTTR)</b>
+			<c>Durchschnittliche Auszeit zwischen zwei Ausfällen (MTBF)</c>
+			<d>Durchschnittliche Prozedurdauer/durchschnittliche Einstellungsdauer (MTTR)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>10</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Was sind zwei Vorteile von Cloud Computing durch Dienstleister gegenüber dem Betrieb eines eigenen Rechenzentrums?</question>
+		<proposals>
+			<a>#Geringere Personalkosten, da Aufgaben ausgelagert werden</a>
+			<b>#Einsparung von Energiekosten</b>
+			<c>Abhängigkeit vom jeweiligen Anbieter</c>
+			<d>Sicherheit und Datenschutz sind sehr hoch</d>
+		</proposals>
+	</question>
+	<question>
+		<id>11</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Was sind zwei Vorteile von Cloud Computing durch Dienstleister gegenüber dem Betrieb eines eigenen Rechenzentrums?</question>
+		<proposals>
+			<a>#Verbrauchsgerechte Abrechnung, Kostentransparenz</a>
+			<b>#Flexible Anpassung der IT-Infrastruktur an die Anforderungen</b>
+			<c>Daten zwischen Anbietern auszutauschen und somit einen Wechsel des Anbieters</c>
+			<d>Ständige Verbindung zum Internet muss nicht gegeben sein um in der Cloud zu arbeiten</d>
+		</proposals>
+	</question>
+	<question>
+		<id>12</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Die Media AG betreibt ein eigenes Rechenzentrum und plant nun die Umstellung auf Cloud Computing. Die Cloud soll von einem Provider betrieben werden. Welche drei Aussagen treffen  auf Private Cloud Modelle zu?</question>
+		<proposals>
+			<a>#Das Risiko des Datenmissbrauchs durch Dritte ist gering.</a>
+			<b>#Die IT-Infrastruktur wird von der Media AG betrieben.</b>
+			<c>#Hard- und Software werden ausschließlich von den Mitarbeitern der Media AG genutzt.</c>
+			<d>Die IT-Infrastruktur wird vom Cloud-Provider bereitgestellt.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>13</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Die Media AG betreibt ein eigenes Rechenzentrum und plant nun die Umstellung auf Cloud Computing. Die Cloud soll von einem Provider betrieben werden. Welche drei auf Public Cloud Modelle zu?</question>
+		<proposals>
+			<a>#Hard- und Software werden nicht nur von den Mitarbeitern der Media AG, sondern auch von anderen Usern genutzt.</a>
+			<b>#Das Risiko des Datenmissbrauchs durch Dritte ist erhöht.</b>
+			<c>#Die IT-Infrastruktur wird vom Cloud-Provider bereitgestellt.</c>
+			<d>Hard- und Software werden ausschließlich von den Mitarbeitern der Media AG genutzt.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>14</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Media AG betreibt ein eigenes Rechenzentrum und plant nun die Umstellung auf Cloud Computing. Die Cloud soll von einem Provider betrieben werden. Welche Aussage trifft auf Hybrid Cloud Modelle zu?</question>
+		<proposals>
+			<a>#Nutzung von Soft- und Hardware einer Privaten als auch einer Public Cloud</a>
+			<b>Die IT-Infrastruktur wird nur vom Cloud-Provider bereitgestellt.</b>
+			<c>Die IT-Infrastruktur wird nur von der Media AG betrieben.</c>
+			<d>Die Datenpflege wird nur vom Cloud-Anbieter durchgeführt.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>15</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Merkmale, durch die sich ein SAN von einem NAS unterscheidet.</question>
+		<proposals>
+			<a>#SAN besitzt höhere Performance (separates Hochgeschwindigkeitsnetz)</a>
+			<b>#SAN erlaubt zeitnahe Datensicherung</b>
+			<c>SAN besitzt keine eigene Hardware-Umgebung (z. B. Fibre Channel Switches)</c>
+			<d>SAN ist abhängig vom Standort und zentraler Verwaltung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>16</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Merkmale, durch die sich ein SAN von einem NAS unterscheidet.</question>
+		<proposals>
+			<a>#SAN arbeitet blockbasierend</a>
+			<b>#SAN besitzt eigene Hardware-Umgebung (z. B. Fibre Channel Switches)</b>
+			<c>SAN ist nicht skalierbar, z. B. durch zusätzliche Switches</c>
+			<d>SAN arbeiten autonom</d>
+		</proposals>
+	</question>
+	<question>
+		<id>17</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Merkmale, durch die sich ein SAN von einem NAS unterscheidet.</question>
+		<proposals>
+			<a>#SAN ist skalierbar, z. B. durch zusätzliche Switches</a>
+			<b>#SAN ist unabhängig vom Standort und zentraler Verwaltung</b>
+			<c>SAN erlaubt keine zeitnahe Datensicherung</c>
+			<d>SAN nutzt paketorientierte Protokolle</d>
+		</proposals>
+	</question>
+	<question>
+		<id>18</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Cloud-Nutzer fürchten um die Sicherheit ihrer Daten. Was ist die Vertraulichkeit?</question>
+		<proposals>
+			<a>#Daten dürfen ausschließlich autorisierten Personen zugänglich sein</a>
+			<b>Daten sind allen Personen zugänglich</b>
+			<c>Daten sind ausschliesslich einer Personen zugänglich</c>
+			<d>Daten dürfen auch unautorisierten Personen zugänglich sein</d>
+		</proposals>
+	</question>
+	<question>
+		<id>19</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Cloud-Nutzer fürchten um die Sicherheit ihrer Daten. Was ist die Integrität?</question>
+		<proposals>
+			<a>#Die Unverfälschbarkeit und Korrektheit von Daten</a>
+			<b>Die Korrektheit von Daten</b>
+			<c>Die Unverfälschbarkeit von Daten</c>
+			<d>Der Zusammenschluss von Daten</d>
+		</proposals>
+	</question>
+	<question>
+		<id>20</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche 2 Aussagen treffen auf einen Virus zu?</question>
+		<proposals>
+			<a>#Ist eine Programmdatei</a>
+			<b>#Verursacht Fehler, Fehleinträge oder Störungen in Dateien</b>
+			<c>Führt sich selbständig aus</c>
+			<d>Sammelt Daten</d>
+		</proposals>
+	</question>
+	<question>
+		<id>21</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Was trifft auf die Gefahr einer Spam zu?</question>
+		<proposals>
+			<a>#Verbreitet sich über verteilende Programme im Internet (meist durch E-Mails)</a>
+			<b>#Enthält häufig ein Schadprogramm, z. B. Virus</b>
+			<c>Ist ein gewollter Newsletter</c>
+			<d>Ist eine Programmdatei</d>
+		</proposals>
+	</question>
+	<question>
+		<id>22</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Was trifft auf einen Brute-Force-Angriff zu?</question>
+		<proposals>
+			<a>#Angriff auf einen kryptografischen Algorithmus (Dateien, Nachrichten, lnformationent), meist Passwörter</a>
+			<b>Verursachet Fehler, Fehleinträge oder Störungen in Dateien</b>
+			<c>Enthält häufig ein Schadprogramm, z. B. Virus</c>
+			<d>Sammelt Daten</d>
+		</proposals>
+	</question>
+	<question>
+		<id>23</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche 2 Aussagen treffen auf einen DDoS-Angriff durchein Botnetz zu?</question>
+		<proposals>
+			<a>#Gruppe von Software-Bots (automatisierte Programme) auf vernetzten Computern</a>
+			<b>#Backdoor-Programme legen Server lahm</b>
+			<c>Verursachet Fehler, Fehleinträge oder Störungen in Dateien</c>
+			<d>Verbreitet sich über verteilende Programme im Internet (meist durch E-Mails)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>24</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie die beiden möglichen VPN-Verbindungsmodi mit dem Protokoll Ipsec.</question>
+		<proposals>
+			<a>#Transport-modus</a>
+			<b>#Tunnel-modus</b>
+			<c>Host-modus</c>
+			<d>Bus-modus</d>
+		</proposals>
+	</question>
+	<question>
+		<id>25</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie drei (Paketheader-)lnhalte, nach denen eine Paketfilter-Firewall analysiert.</question>
+		<proposals>
+			<a>#Quell-IP-Adresse</a>
+			<b>#Protokoll</b>
+			<c>#Ziel-Port</c>
+			<d>Hostname</d>
+		</proposals>
+	</question>
+	<question>
+		<id>26</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie drei (Paketheader-)lnhalte, nach denen eine Paketfilter-Firewall analysiert.</question>
+		<proposals>
+			<a>#TCP-Flags</a>
+			<b>#Quell-Port</b>
+			<c>#Ziel-IP-Adresse</c>
+			<d>DCP</d>
+		</proposals>
+	</question>
+	<question>
+		<id>27</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Schutzfunktionen, durch die sich eine Application-Firewall von einer Stateful-lnspection-Firewall unterscheidet.</question>
+		<proposals>
+			<a>#Inhaltliche Bewertung von Daten, z. B. Benutzerauthentifizierung</a>
+			<b>#Dienste können benutzerabhängig freigegeben werden</b>
+			<c>Dienste können nicht benutzerabhängig freigegeben werden</c>
+			<d>Einfache Protokollierung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>28</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie drei Schutzfunktionen, durch die sich eine Application-Firewall von einer Stateful-lnspection-Firewall unterscheidet.</question>
+		<proposals>
+			<a>#Umfangreiche Protokollierung</a>
+			<b>#Blockierung von Aktionen bestimmter Anwendungen</b>
+			<c>#Keine direkte Kommunikationsverbindung zwischen Quelle und Ziel</c>
+			<d>Direkte Kommunikationsverbindung zwischen Quelle und Ziel</d>
+		</proposals>
+	</question>
+	<question>
+		<id>29</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Aussagen  treffen auf Unicast zu?</question>
+		<proposals>
+			<a>#Bezeichnet eine einzelne Netzwerkschnittstelle</a>
+			<b>#Pakete werden zu der durch die eindeutige Adresse gekennzeichneten Netzwerkschnittstelle gesendet</b>
+			<c>Bezeichnet eine Gruppe von Netzwerkgeräten</c>
+			<d>Pakete werden zu einer bestimmten Gruppe von Netzwerkschnittstellen gesendet</d>
+		</proposals>
+	</question>
+	<question>
+		<id>30</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche drei Aussagen treffen auf Multicast zu?</question>
+		<proposals>
+			<a>#Bezeichnet eine Gruppe von Netzwerkgeräten.</a>
+			<b>#Pakete werden zu einer bestimmten Gruppe von Netzwerkschnittstellen gesendet.</b>
+			<c>#Bei IPv6 gibt es keine Broadcast-Adressen, deren Funktion wird durch Multicast-Adressen ersetzt.</c>
+			<d>Pakete werden zu der durch die eindeutige Adresse gekennzeichneten Netzwerkschnittstelle gesendet.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>31</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Aussagen treffen auf Anycast zu?</question>
+		<proposals>
+			<a>#Adresse zwischen einer Unicast- und einer Multicast-Adresse.</a>
+			<b>#Bezeichnet eine oder wenige Schnittstellen einer Gruppe von Netzwerkgeräten (z. B. der nächste DNS- oder DHCP-Server).</b>
+			<c>Bezeichnet eine einzelne Netzwerkschnittstelle.</c>
+			<d>Pakete werden zu einer bestimmten Gruppe von Netzwerkschnittstellen gesendet.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>32</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>IPv6-Adressen lassen sich nach den Regeln der RFC 4291 verkürzt darstellen. Verkürzen Sie die IPv6-Adresse" 2001 :ODB8:0011 :0000:0000:0000:0000:0001 "nach den Regeln der RFC 4291.</question>
+		<proposals>
+			<a>#2001 :DBS:11 ::1</a>
+			<b>2001 :DBS:11 ::0001</b>
+			<c>2001 :DBS:11 :0000:1</c>
+			<d>2001 :DBS:11 :0:1</d>
+		</proposals>
+	</question>
+	<question>
+		<id>33</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei grundsätzliche Vorteile, die das Online-Marketing gegenüber dem Offline-Marketing mit Printmedien besitzt.</question>
+		<proposals>
+			<a>#Schneller verfügbar</a>
+			<b>#In einem Zeitraum dauernd/wiederholt verfügbar</b>
+			<c>Kann nicht von Tools blockiert werden</c>
+			<d>Besserer Überblick und Lesbarkeit</d>
+		</proposals>
+	</question>
+	<question>
+		<id>34</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei grundsätzliche Vorteile, die das Online-Marketing gegenüber dem Offline-Marketing mit Printmedien besitzt.</question>
+		<proposals>
+			<a>#Kann nachträglich angepasst werden</a>
+			<b>#Weltweit verfügbar</b>
+			<c>Besserer Überblick und Lesbarkeit</c>
+			<d>Sehr hohe Wirkung und Durchschlagskraft</d>
+		</proposals>
+	</question>
+	<question>
+		<id>35</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Vorteile, die eine Werbung in Printmedien gegenüber einer Online-Werbung besitzt.</question>
+		<proposals>
+			<a>#Unabhängig von Smartphone und Tablet.</a>
+			<b>#Besserer Überblick und Lesbarkeit.</b>
+			<c>Lässt sich zeitnah und unkompliziert anpassen.</c>
+			<d>Einfache Beurteilung und Auswertung.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>36</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Vorteile, die eine Werbung in Printmedien gegenüber einer Online-Werbung besitzt.</question>
+		<proposals>
+			<a>#Auch Interessenten ohne Internetanschluss werden erreicht</a>
+			<b>#Einfacher zu handhaben, kann z. B. einfach mitgenommen werden</b>
+			<c>Die Strategie ist leicht zu verändern und zu optimieren</c>
+			<d>Mit kleinen Budgets können sinnvolle Strategien und Maßnahmen umgesetzt werden</d>
+		</proposals>
+	</question>
+	<question>
+		<id>37</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Online-Marketingmaßnahmen, die zur Werbung für einen Onlineshop geeignet sind.</question>
+		<proposals>
+			<a>#Social Media Marketing</a>
+			<b>#Website Werbung</b>
+			<c>Cookies</c>
+			<d>B2B</d>
+		</proposals>
+	</question>
+	<question>
+		<id>38</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Online-Marketingmaßnahmen, die zur Werbung für einen Onlineshop geeignet sind.</question>
+		<proposals>
+			<a>#Google AdWords</a>
+			<b>#Newsletter</b>
+			<c>GoogleAnalytics</c>
+			<d>Spam</d>
+		</proposals>
+	</question>
+	<question>
+		<id>39</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Online-Marketingmaßnahmen, die zur Werbung für einen Onlineshop geeignet sind.</question>
+		<proposals>
+			<a>#E-Mail-Werbung</a>
+			<b>#Bannerwerbung bei Partnern (Affiliate Marketing)</b>
+			<c>Spam</c>
+			<d>Anzeige in Fachzeitschriften</d>
+		</proposals>
+	</question>
+	<question>
+		<id>40</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Für eine Methode showtime() hat der Programmierer für die Variablen hour, minute und second den Datentyp int vorgeschlagen. Welche Aussagen treffen zu?</question>
+		<proposals>
+			<a>#Datentyp zur Speicherung ganzzahliger Werte, Nachkommastellen werden abgeschnitten</a>
+			<b>#Die Anzahl Stunden, Minuten und Sekunden werden nur ganzzahlig angegeben</b>
+			<c>Datentyp zur Speicherung nicht ganzzahliger Werte, Nachkommastellen werden nicht abgeschnitten</c>
+			<d>Damit lassen sich auch Gleitkommazahlen speichern</d>
+		</proposals>
+	</question>
+	<question>
+		<id>41</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Eine Methode soll MiByte in KiByte umrechnen. Sie sollen Testdaten für einen Black-Box-Test vorbereiten. Rechnen Sie 23,5 MiByte in KiByte um. Welche antwort ist richtig?</question>
+		<proposals>
+			<a>#24.064 Kilobyte (23,5 * 1.024)</a>
+			<b>23.500 Kilobyte (23,5 * 1.000)</b>
+			<c>#2.350 Kilobyte (23,5 * 100)</c>
+			<d>24.064 Megabyte (23,5 * 1.024)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>42</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Punkte passen zum RAID 10?</question>
+		<proposals>
+			<a>#Kombination aus RAID 0 und RAID 1</a>
+			<b>Redundanz durch Parity-Informationen</b>
+			<c>Höhere Lesegeschwindigkeit durch parallelen Zugriff</c>
+			<d>Verminderte Schreibgeschwindigkeit durch Berechnung der Parities</d>
+		</proposals>
+	</question>
+	<question>
+		<id>43</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Nennen Sie zwei Merkmale bzw. Möglichkeiten von VLAN.</question>
+		<proposals>
+			<a>#Einrichtung logischer Gruppen innerhalb der physischen Topologie möglich</a>
+			<b>#Bessere Nutzung der Bandbreite</b>
+			<c>Weniger Stromverbrauch</c>
+			<d>Es sind nur 5 Benutzer zulässig</d>
+		</proposals>
+	</question>
+	<question>
+		<id>44</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Was bedeutet "statisches VLAN"?</question>
+		<proposals>
+			<a>#Eindeutige und feste Zuordnung von Switchports zu einem VLAN</a>
+			<b>Zuordnung eines Clients zu einem VLAN erfolgt durch Protokollidentifikation, MAC-Adresse oder Authentifizierung</b>
+			<c>Das VLAN hat immer nur 5 Clients</c>
+			<d>Das VLAN kann maximal nur 5 Clients haben</d>
+		</proposals>
+	</question>
+	<question>
+		<id>45</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In einem VPN müssen Authentizität und Vertraulichkeit sichergesetellt werden. Wie kann die Vertraulichkeit erreicht werden?</question>
+		<proposals>
+			<a>#Durch Verschlüsselung der Daten</a>
+			<b>Zur Authentifizierung sind keine Passwörter benötigt</b>
+			<c>Passwörter müssen mindestens 8 Zeichen haben</c>
+			<d>Man unterzeichnet eine Verschwiegenheitserklärung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>46</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>In einem VPN müssen Authentizität und Vertraulichkeit sichergesetellt werden. Wie kann die Authentizität erreicht werden?</question>
+		<proposals>
+			<a>#Durch die Identifizierung autorisierter Nutzer</a>
+			<b>#Durch Überprüfung der Daten, dass sie nur aus der autorisierten Quellen stammen</b>
+			<c>Die Festplatte muss RAID 10 haben</c>
+			<d>Das BIOS muss auf dem neusten Stand sein</d>
+		</proposals>
+	</question>
+	<question>
+		<id>47</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Für die Projektplanung wird empfohlen, dass die Projektziele bzw. Zielvorgaben nach den SMART-Regeln formuliert werden. Was steckt hinter der Abkürzung SMART?</question>
+		<proposals>
+			<a>#Spezifisch Messbar Akzeptiert Realistisch Terminiert</a>
+			<b>Spezifisch Messbar Aufbauend Realistisch Terminiert</b>
+			<c>Schnell Messbar Akzeptiert Realistisch Terminiert</c>
+			<d>Speziefisch Messbar Akzeptiert Realistisch Teamarbeit</d>
+		</proposals>
+	</question>
+	<question>
+		<id>48</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Sie sollen für ein Projektmeeting das Thema Fusion vorbereiten. Bitte nennen Sie zwei Zielsetzungen einer Fusion.</question>
+		<proposals>
+			<a>#Größerer gemeinsamer Kundenstamm</a>
+			<b>#Verbesserung der Marktstellung</b>
+			<c>Bessere Urlaubsplanung</c>
+			<d>Mehrkosten, z.B. zwei Verwaltungen</d>
+		</proposals>
+	</question>
+	<question>
+		<id>49</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Benennen Sie zwei Probleme oder Hindernisse, die bei einer Fusion auftreten können.</question>
+		<proposals>
+			<a>#Unterschiedliche Unternehmenskulturen finden nicht zusammen</a>
+			<b>#Streitigkeit, an welchen Standorten es zu Personalabbau kommen soll</b>
+			<c>Größerer gemeinsamer Kundenstamm</c>
+			<d>Kosteneinsparungen, z.B. durch eine gemeinsame Hotline</d>
+		</proposals>
+	</question>
+	<question>
+		<id>50</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Anstelle einer Fremdfinanzierung sollen Möglichkeiten der Innenfinanzierung geprüft werden. Nennen Sie zwei Möglichkeiten der Innenfinanzierung.</question>
+		<proposals>
+			<a>#Aus dem Gewinn</a>
+			<b>#Von stillen Reserven</b>
+			<c>Von der Bank</c>
+			<d>Von Investoren</d>
+		</proposals>
+	</question>
+	<question>
+		<id>51</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Für einen Test verwenden Sie den folgenden „ping" -Befehl auf einem PC: "C:/User&gt;ping :: 1" Was  bedeutet dieser „ping" -Befehl.</question>
+		<proposals>
+			<a>#Ping-Signal an die Loopback-Adresse</a>
+			<b>Ping-Signal, um zu überprüfen, ob der DNS funktioniert</b>
+			<c>Ping-Signal an den File Server</c>
+			<d>Ping-Signal an den Drucker</d>
+		</proposals>
+	</question>
+	<question>
+		<id>52</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Auf einem Server wird DHCP und DNS eingerichtet. Mit DHCP können an die Clients außer der IP-Adresse weitere Parameter übergeben werden. Nennen Sie zwei weitere Parameter.</question>
+		<proposals>
+			<a>#Subnetmaske</a>
+			<b>#Broadcastadresse</b>
+			<c>Kernmaske</c>
+			<d>Kerneladresse</d>
+		</proposals>
+	</question>
+	<question>
+		<id>53</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Geben Sie für die Abkürzung DNS den vollständigen Begriff an.</question>
+		<proposals>
+			<a>#Domain Name System</a>
+			<b>Domain Net System</b>
+			<c>Domain Name Software</c>
+			<d>Domain Name Server</d>
+		</proposals>
+	</question>
+	<question>
+		<id>54</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Zwischen den Filialen der DOIT AG wird VPN mit hoher Sicherheit eingerichtet. Nennen Sie den Verbindungstyp.</question>
+		<proposals>
+			<a>#Site-to-Site</a>
+			<b>Peer-to-Peer</b>
+			<c>PC-to-PC</c>
+			<d>MAC-to-MAC</d>
+		</proposals>
+	</question>
+	<question>
+		<id>55</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Bei der Datenübermittlung wird ein symmetrisches Verschlüsselungsverfahren eingesetzt. Nennen Sie zwei Vorteile der symmetrischen gegenüber der asymmetrischen Verschlüsselung.</question>
+		<proposals>
+			<a>#Höchere Geschwindigkeit bei Ver- und Entschlüsselung</a>
+			<b>#Geringere Rechenleistung zu Ver- und Entschlüsselung</b>
+			<c>Ist schwierig zu implementieren(komplizierte mathematische Methoden)</c>
+			<d>Mit großen Schlüsselängen kann hohe Sicherheit erreicht werden</d>
+		</proposals>
+	</question>
+	<question>
+		<id>56</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Für den geplanten Onlineshop der DOIT AG sollen auch die Abbildungen der Produkte in die Tabelle aufgenommen werden. Nennen Sie einen geeigneten Datentyp für das neue Feld Abbildung.</question>
+		<proposals>
+			<a>#Hyperlink</a>
+			<b>Linksys</b>
+			<c>Autoexe.bat</c>
+			<d>System.ini</d>
+		</proposals>
+	</question>
+	<question>
+		<id>57</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Nennen Sie zu der folgenden Aktion das Linux-Kommando. Aktion: Inhalt einer Datei umgekehrt anzeigen.</question>
+		<proposals>
+			<a>#tac</a>
+			<b>toc</b>
+			<c>tic</c>
+			<d>tec</d>
+		</proposals>
+	</question>
+	<question>
+		<id>58</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Nennen Sie zu der folgenden Aktion das Linux-Kommando. Aktion: Master Boot Record verändern.</question>
+		<proposals>
+			<a>#grub</a>
+			<b>grab</b>
+			<c>rub</c>
+			<d>rab</d>
+		</proposals>
+	</question>
+	<question>
+		<id>59</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche Aktion verhindert am einfachsten, das sich kein normaler User am System neu anmelden kann?</question>
+		<proposals>
+			<a>#Im verzeichnis "/etc" wird eine Datei mit dem Namen "nologin" erstellt</a>
+			<b>Alle User im System bekommen als Loginshell die Shell "/bin/false/"</b>
+			<c>Das Netzwerkinterface wird mit "ipconfig" heruntergefahren</c>
+			<d>Die Defaultroute am Server wird entfernt</d>
+		</proposals>
+	</question>
+	<question>
+		<id>60</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Linuxthema: Welche Datei beinhaltet die Konfigurationsdaten die bei der Kompilierung eines neuen Kernel verwendet werden?</question>
+		<proposals>
+			<a>"/usr/src/linux/config"</a>
+			<b>#"/usr/src/linux/.config"</b>
+			<c>"usr/scr/linux/kernel.conf"</c>
+			<d>"usr/scr/linux/.config.conf"</d>
+		</proposals>
+	</question>
+	<question>
+		<id>61</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Aus wie vielen Zeichen besteht ein NetBIOS -Name?</question>
+		<proposals>
+			<a>#16</a>
+			<b>10</b>
+			<c>128</c>
+			<d>255</d>
+		</proposals>
+	</question>
+	<question>
+		<id>62</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche zwei Routingprotokolle unterstützen CIDR?</question>
+		<proposals>
+			<a>#RIP Version 2</a>
+			<b>#OSPF</b>
+			<c>OSPD</c>
+			<d>RIP Version 1</d>
+		</proposals>
+	</question>
+	<question>
+		<id>63</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wofür wird ARP benutzt?</question>
+		<proposals>
+			<a>#Es übersetzt eine Software-Adresse in eine Host-Hardware-Adresse</a>
+			<b>Es übersetzt eine Host-Hardware-Adresse in eine Software-Adresse</b>
+			<c>Es übersetzt einen Host-Namen in eine Software-Adresse</c>
+			<d>Es übersetzt Software-Adresse in einen Host-Namen</d>
+		</proposals>
+	</question>
+	<question>
+		<id>64</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wie lange bleiben Informationen im ARP-Cache?</question>
+		<proposals>
+			<a>3 bis 20 Sekunden</a>
+			<b>#2 bis 10 Sekunden</b>
+			<c>30 Minuten</c>
+			<d>2 Tage</d>
+		</proposals>
+	</question>
+	<question>
+		<id>65</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wie lautet die vierte OSI-Schicht?</question>
+		<proposals>
+			<a>#Transport</a>
+			<b>Vermittlung</b>
+			<c>Sicherungsschicht</c>
+			<d>Netzwerk</d>
+		</proposals>
+	</question>
+	<question>
+		<id>66</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wie lautet die Portnummer für das POP-Protokoll?</question>
+		<proposals>
+			<a>#110</a>
+			<b>20</b>
+			<c>25</c>
+			<d>443</d>
+		</proposals>
+	</question>
+	<question>
+		<id>67</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Markieren Sie alle IP-Adressen, die einem Host zugewiesen werden können.</question>
+		<proposals>
+			<a>#198.121.254.251</a>
+			<b>#131.107.253.80</b>
+			<c>155.256.0.1</c>
+			<d>255.25.25.255</d>
+		</proposals>
+	</question>
+	<question>
+		<id>68</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Welche der Protokolle gehören zur TCP/IP Protokoll-Suite?</question>
+		<proposals>
+			<a>#ARP</a>
+			<b>#TCP</b>
+			<c>IPX</c>
+			<d>NetBEUI</d>
+		</proposals>
+	</question>
+</questions>

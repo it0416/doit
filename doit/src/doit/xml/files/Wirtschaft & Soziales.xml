@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<question>
+		<id>0</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Um welche Unternehmensform handelt es sich bei der DOIT AG?</question>
+		<proposals>
+			<a>Einzelunternehmen</a>
+			<b>Genossenschaft</b>
+			<c>Personengesellschaft</c>
+			<d>#Kapitalgesellschaft</d>
+		</proposals>
+	</question>
+	<question>
+		<id>1</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche der folgenden Unterschriftszeilen verwenden Sie, wenn der Prokurist Herr Haus unterschreibt?</question>
+		<proposals>
+			<a>#DOIT AG ppa. Haus</a>
+			<b>DOIT AG i.V. Haus</b>
+			<c>DOIT AG Haus</c>
+			<d>DOIT AG i.A. Haus</d>
+		</proposals>
+	</question>
+	<question>
+		<id>2</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>DOIT AG hat die Cbm GmbH gekauft und betreibt diese als "Cbm GmbH" weiter. Um welche Form eines Unternehmenszusammenschlusses handelt es sich?</question>
+		<proposals>
+			<a>Kartell</a>
+			<b>#Konzern</b>
+			<c>Fusion</c>
+			<d>Arbeitsgemeinschaft</d>
+		</proposals>
+	</question>
+	<question>
+		<id>3</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In welcher Einrichtung/Organisation ist die DOIT AG als Hersteller elektronischer Bauteile aufgrund gesetzlicher Bestimmungen Mitglied?</question>
+		<proposals>
+			<a>Handwerkskammer</a>
+			<b>Wertpapierbörse</b>
+			<c>Arbeitgeberverband</c>
+			<d>#Industrie- und Handelskammer</d>
+		</proposals>
+	</question>
+	<question>
+		<id>4</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die DOIT AG will die Arbeitsproduktivität je Stunde in der Fertigung steigern. Welche Maßnahme ist dazu am ehesten geeignet?</question>
+		<proposals>
+			<a>#Umstellung von Zeitlohn auf Leistungslohn</a>
+			<b>Erhöhung des Tariflohns</b>
+			<c>Anordnung von Überstunden</c>
+			<d>Erhöhung der Verkaufspreise</d>
+		</proposals>
+	</question>
+	<question>
+		<id>5</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welcher der folgenden Sachverhalte führt zwingend zum Abbruch des Ausbildungsverhältnisses?</question>
+		<proposals>
+			<a>Der Ausbildungsbetrieb stellt von einer 5-Tage-Woche auf eine 6-Tage-Woche um.</a>
+			<b>#Ein Auszubildender kann dauerhaft nicht mehr den körperlichen Anforderungen des Berufs entsprechen.</b>
+			<c>Der Auszubildende hat eine höhere Ausbildungsvergütung erwartet.</c>
+			<d>Der Auszubildende soll nach der Prüfung kein Arbeitsvertrag angeboten werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>6</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wilhelm Wurst , ledig, keine Kinder, ist in der Brot GmbH teilszeitbeschäftigt und erhält dort einen monatlichen Bruttolohn von 1800€. Seit diesem Monat ist er auch stundenweise in der DOIT AG tätig. Nach welcher Steuerklasse muss die DOIT AG die Lohnsteuer von Herrn Wurst ermitteln?</question>
+		<proposals>
+			<a>Steuerklasse 1</a>
+			<b>Steuerklasse 2</b>
+			<c>Steuerklasse 5</c>
+			<d>#Steuerklasse 6</d>
+		</proposals>
+	</question>
+	<question>
+		<id>7</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Mit welcher Rechtsgrundlage kann man nachprüfen, ob die von der DOIT AG gezahlte Ausbildungsvergütung dem geltenden Mindestsatz entspricht?</question>
+		<proposals>
+			<a>mit dem Jugendarbeitsschutzgesetz</a>
+			<b>mit der Lohnsteuertabelle</b>
+			<c>mit dem Manteltarifvertrag</c>
+			<d>#mit dem geltenden Lohn- und Gehaltstarifvertrag</d>
+		</proposals>
+	</question>
+	<question>
+		<id>8</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Ein Mitarbeiter der Cbm GmbH hat auf der Fensterbank des Büros eine Kaffeetasse abgestellt. Bei einem Windstoß fällt diese herunter und beschädigt einen Kunden Pkw auf dem Firmenparkplatz. Wer trägt den Schaden?</question>
+		<proposals>
+			<a>Der Mitarbeiter</a>
+			<b>Der Kunde selbst</b>
+			<c>Die Berufsgenossenschaft</c>
+			<d>#Die Haftpflichtversicherung der Cbm GmbH</d>
+		</proposals>
+	</question>
+	<question>
+		<id>9</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>In welcher der folgenden zwei Angelegenheiten muss sich die DOIT AG an die Industrie- und Handelskammer wenden?</question>
+		<proposals>
+			<a>Anmeldung der Insolvenz</a>
+			<b>Zahlung der Gewerbesteuer</b>
+			<c>#Eintragung eines Ausbildungsvertrages</c>
+			<d>#Ausstellung eines Ursprungszeugnisses</d>
+		</proposals>
+	</question>
+	<question>
+		<id>10</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Wenigen Anbietern stehen viele Nachfrager gegenüber. Welche Marktform liegt vor?</question>
+		<proposals>
+			<a>Bilaterales Polypol</a>
+			<b>Zweiseitiges Monopol</b>
+			<c>Nachfrageoligopol bei Angebotspolypol</c>
+			<d>#Angebotsoligopol bei Nachfragepoypol</d>
+		</proposals>
+	</question>
+	<question>
+		<id>11</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie und Ihr Partner möchten ein Schulungscenter in der Rechtsform einer Personengesellschaft führen. Sie haften mit ihrem Privatvermögen und Ihr Partner nur mit seiner Geschäftseinlage. Welcher Unternehmensform entspricht diese unterschiedlichen Haftung?</question>
+		<proposals>
+			<a>GmbH</a>
+			<b>GbR</b>
+			<c>OHG</c>
+			<d>#KG</d>
+		</proposals>
+	</question>
+	<question>
+		<id>12</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Im Arbeitsvertrag des neuen Mitarbeiters ist ein Wettbewerbsverbot enthalten.  Welche Handlungen sind dem Mitarbeiter dadurch untersagt?</question>
+		<proposals>
+			<a>Überstunden</a>
+			<b>Teilnahme an Verkaufswettbewerben von Lieferanten</b>
+			<c>Abgabe von Schulungsangeboten für öffentliche Ausschreibungen im Namen der Firma</c>
+			<d>#Vermittlung oder Durchführung von Dienstleistungen auf eigene Rechnung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>13</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Mit welcher der folgenden Formeln kann die Rentabilität berechnet werden?</question>
+		<proposals>
+			<a>Ertrag/Kapital * 100</a>
+			<b>Kapital/Umsatzerlöse * 100</b>
+			<c>#Gewinn/Kapital * 100</c>
+			<d>Umsatzerlöse/Kosten * 100</d>
+		</proposals>
+	</question>
+	<question>
+		<id>14</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Der neue Auszubildende ist sozialversicherungspflichtig. Welche Konsequenzen ergeben sich daraus für das ausbildende Unternehmen. Die DOIT AG muss…</question>
+		<proposals>
+			<a>den Auszubildenden immer bei der AOK anmelden.</a>
+			<b>für Auszubildende keinen Beitrag zur Arbeitslosenversicherung abführen.</b>
+			<c>#den gesamten Sozialversicherungsbeitrag an die Krankenkasse abführen.</c>
+			<d>#den Beitrag zur berufsgenossenschaftlichen Unfallsversicherung allein tragen.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>15</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Mitarbeiterin der DOIT AG hat auf direktem Weg zur Arbeit einen Verkehrsunfall erlitten und eine ärztliche AU vorgelegt. Welche Maßnahme müssen Sie nun vornehmen?</question>
+		<proposals>
+			<a>den polizeilichen Unfallbericht anfordern</a>
+			<b>die vorraussichtliche Fehlzeit in die Personalakte eintragen</b>
+			<c>#den Unfall der Berufsgenossenschaft melden</c>
+			<d>zur unverzüglichen Lohnfortzahlung im Krankheitsfall die Krankenkasse informieren</d>
+		</proposals>
+	</question>
+	<question>
+		<id>16</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Welche der folgenden Maßnahmen müssen Sie als Arbeitgeber im Zusammenhang mit Unfallverhütungsvorschriften ergreifen? Sie müssen die geltenden Unfallverhütungsvorschriften...</question>
+		<proposals>
+			<a>in die Arbeitsverträge aufnehmen.</a>
+			<b>den Mitarbeitern in regelmäßigen Schulungen vermitteln.</b>
+			<c>der Berufsgenossenschaft mitteilen.</c>
+			<d>#an geeigneter Stelle auslegen oder aushängen.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>17</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Bei der Einrichtung von ergonomischen Bildschirmarbeitsplätzen müssen Sie unter anderem Maße für den Seh- und Greifraum beachten. Welcher Rechtsgrundlage können Sie diese Maße entnehmen?</question>
+		<proposals>
+			<a>Bildschirmarbeitsverordnung(BildscharbV)</a>
+			<b>#Normen des Deutschen Instituts für Normung(DIN)</b>
+			<c>Arbeitsstätten-Richtlinien(ASR)</c>
+			<d>Verordnung der Berufsgenossenschaften(VBG)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>18</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie erwägen mit einem anderen erfolgreichen Unternehmen zu fusionieren. Welche Ziele können mit dieser Fusion erreicht werden?</question>
+		<proposals>
+			<a>#Rationalisierung</a>
+			<b>#verbesserte Kreditwürdigkeit</b>
+			<c>Erhalt staatlicher Subventionen</c>
+			<d>Ermäßigung der Umsatzsteuer</d>
+		</proposals>
+	</question>
+	<question>
+		<id>19</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In der Cbm GmbH wurde ein Betriebsrat gewählt. Welche der folgenden Aussagen über den Betriebsrat ist zutreffend?</question>
+		<proposals>
+			<a>Ein Betriebsrat muss je zur Hälfte aus weiblichen und männlichen Arbeitnehmern gebildet werden.</a>
+			<b>Ein Betriebsrat muss in jedem Betrieb gewählt werden.</b>
+			<c>Die Kündigung eines Arbeitnehmers wird erst durch Zustimmung des Betriebsrats wirksam.</c>
+			<d>#Der Betriebsrat hat bei der Aufstellung des Urlaubsplans ein Mitbestimmungsrecht.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>20</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Geschäftsführung der Cbm GmbH und der Betriebsrat schließen Betriebsvereinbarungen ab. Welcher Sachverhalt kann durch eine Betriebsvereinbarung geregelt werden?</question>
+		<proposals>
+			<a>Kündigungsfristen</a>
+			<b>#Gleitende Arbeitszeit</b>
+			<c>Mindesturlaub</c>
+			<d>Mindestlöhne gemäß Tarifvertrag</d>
+		</proposals>
+	</question>
+	<question>
+		<id>21</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In welcher der folgenden Institutionen ist der für die Berufsausbildung der Cbm GmbH zuständige Schlichtungsausschuss angesiedelt?</question>
+		<proposals>
+			<a>#Industrie und Handelskammer</a>
+			<b>Gewerkschaft</b>
+			<c>Berufsgenossenschaft</c>
+			<d>Amtsgericht</d>
+		</proposals>
+	</question>
+	<question>
+		<id>22</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Ein Mitarbeiter der Cbm GmbH hat gekündigt. Welche Unterlagen müssen ihm - ggf. auf Verlangen - ausgehändigt werden?</question>
+		<proposals>
+			<a>Lebenslauf</a>
+			<b>Arbeitsvertrag</b>
+			<c>#Qualifiziertes Arbeitszeugnis</c>
+			<d>#Arbeitsbescheinigung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>23</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Ihr Arbeitsverhältnis mit der Cbm GmbH ist in einem schriftlichen Arbeitsvertrag geregelt. Bei welchem der folgenden Bestandteile Ihres Arbeitsvertrages ist die Cbm GmbH an kollektives Arbeitsrecht gebunden?</question>
+		<proposals>
+			<a>der/die Angestellte arbeitet als Sachbearbeiter/-in im Kundenservice</a>
+			<b>am Jahresende wird eine außertarifliche, erfolgsabhängige Prämie in Form von Gutscheinen gezahlt</b>
+			<c>die Cbm GmbH gewährt einen monatlichen Fahrtkostenzuschuss von 100,00 EUR</c>
+			<d>#die reguläre wöchentliche Arbeitszeit beträgt gemäß Bestriebsvereinbarung 38,5 Stunden</d>
+		</proposals>
+	</question>
+	<question>
+		<id>24</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In welchem der folgenden Fälle wird in der Cbm GmbH gegen die Pflichten aus dem Arbeitsvertrag verstoßen?</question>
+		<proposals>
+			<a>die Cbm GmbH schließt aus Kostengründen die Kantine</a>
+			<b>die Cbm GmbH hat aus betrieblichen Gründen im Monat Juni eine Urlaubssperre verhängt</b>
+			<c>#ein Mitarbeiter der Cbm GmbH übt ohne Kenntnis des Arbeitgebers eine Nebentätigkeit im gleichen Geschäftszweig aus</c>
+			<d>die Cbm GmbH meldet einen neuen Arbeitnehmer drei Tage nach Arbeitsbeginn bei der Sozialversicherung an</d>
+		</proposals>
+	</question>
+	<question>
+		<id>25</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie wollen Einsicht in Ihre von der Cbm GmbH geführte Personalakte nehmen. Welche Aussage beschreibt zutreffend die Rechtslage?</question>
+		<proposals>
+			<a>es besteht kein Recht auf Einsichtnahme, da die Personalakte nur der Personalverwaltung zugänglich ist</a>
+			<b>es besteht kein Recht auf Einsichtnahme, da dadurch der Datenschutz verletzt wird</b>
+			<c>#es besteht das Recht, jederzeit und uneingeschränkt die eigene Personalakte einzusehen</c>
+			<d>es besteht das Recht, die eigene Personalakte einzusehen, allerdings nur im Beisein eines Mitglieds des Betriebsrates</d>
+		</proposals>
+	</question>
+	<question>
+		<id>26</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Bei welcher der folgenden Rechtsformen haften alle Gesellschafter mit ihrem Privatvermögen?</question>
+		<proposals>
+			<a>#Offene Handelsgesellschaft (OHG)</a>
+			<b>Gesellschaft mit beschränkter Haftung (GmbH)</b>
+			<c>Genossenschaft (e. G.)</c>
+			<d>Aktiengesellschaft (AG)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>27</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Cbm GmbH muss eine Fachkraft für Arbeitssicherheit stellen. Aufgrund welcher der folgenden Rechtsgrundlagen ist die Cbm GmbH dazu verpflichtet?</question>
+		<proposals>
+			<a>Arbeitsplatzschutzgesetz</a>
+			<b>#Arbeitssicherheitsgesetz</b>
+			<c>Unfallverhütungsvorschriften</c>
+			<d>Betriebsverfassungsgesetz</d>
+		</proposals>
+	</question>
+	<question>
+		<id>28</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In der Dampf GmbH werden neue Fertigungsautomaten eingesetzt, die doppelt so viele Teile wie die alten Maschinen produzieren können. Welche Aussage ist in diesem Zusammenhang richtig?</question>
+		<proposals>
+			<a>die Herstellungskosten verdoppeln sich</a>
+			<b>die prozentuale Maschinenauslastung wird verdoppelt</b>
+			<c>#die Arbeitsproduktivität steigt</c>
+			<d>der Materialverbrauch je Stück sinkt</d>
+		</proposals>
+	</question>
+	<question>
+		<id>29</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Einigen Mitarbeitern der GEDOIT mbH wird vorgeworfen, beruflich nicht mehr flexibel zu sein. Welche der folgenden Aussagen beschreibt die berufliche Flexibilität?</question>
+		<proposals>
+			<a>die Bereitschaft, Überstunden zu leisten</a>
+			<b>die Fähigkeit, ständig zur Verbesserung des Betriebsklimas beizutragen</b>
+			<c>#die Fähigkeit, sich den wandelnden Anforderungen der Arbeitswelt anzupassen</c>
+			<d>die Möglichkeit, den Arbeitsplatz mit dem eigenen PKW zu erreichen</d>
+		</proposals>
+	</question>
+	<question>
+		<id>30</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie sind für die Berufsausbildung in der GEDOIT mbH zuständig und müssen die Ausbildung nach den Regeln eines Ordnungsmittels der Berufsausbildung durchführen. Welche Veröffentlichung ist das Ordnungsmittel, nach dem die GEDOIT mbH die Ausbildung organisieren muss?</question>
+		<proposals>
+			<a>Publikationen zu Berufsprofilen, herausgegeben von der Industrie- und Handelskammer</a>
+			<b>#Ausbildungsrahmenplan, verordnet durch das Bundesministerium für Wirtschaft</b>
+			<c>Fachkonzept berufsvorbereitender Bildungsmaßnahmen, herausgegeben von der Agentur für Arbeit</c>
+			<d>Profil der beruflichen Handlungfähigkeit, herausgegeben vom Bundesinstitut für Berufliche Bildung (BiBB)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>31</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Nach Erkrankung eines Ausbilders müssen Auszubildende der GEDOIT mbH zeitweise in einem anderen Unternehmen, der Cbm GmbH, ausgebildet werden. In welchem Dokument muss diese externe Ausbildung dokumentiert werden?</question>
+		<proposals>
+			<a>#Betrieblicher Ausbildungsplan</a>
+			<b>Betriebsvereinbarung zur Berufsausbildung</b>
+			<c>IHK-Verzeichnis der Berufsausbildungsverhältnisse</c>
+			<d>Ausbildungsvertrag</d>
+		</proposals>
+	</question>
+	<question>
+		<id>32</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die GEDOIT mbH hat zusätzliche Stellen geschaffen und will diese mit neuen Mitarbeitern besetzen. Welche Aussage trifft im Hinblick auf die geplanten Neueinstellungen zu? Die DOIT mbH …</question>
+		<proposals>
+			<a>darf eine Stelle erst dann extern ausschreiben, nachdem der Betriebsrat zugestimmt hat.</a>
+			<b>muss jede Stelle zunächst der Agentur für Arbeit melden.</b>
+			<c>darf laut ISO 9003 nur Bewerbungen berücksichtigen, die einen handgeschriebenen Lebenslauf enthalten.</c>
+			<d>#darf als Mitglied eines Arbeitgeberverbands keinen Arbeitsvertrag abschließen, dessen Bedingungen schlechter sind, als die des aktuellen Tarifvertrags.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>33</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Ein Auszubildender eines benachbarten Unternehmens hat trotz Mahnung seit vier Monaten keine Auszubildendenvergütung erhalten. In einer gemeinsamen Mittagspause fragt er Sie um Rat. Welche der folgenden Stellen muss der Auszubildende zunächst anrufen?</question>
+		<proposals>
+			<a>Arbeitsgericht</a>
+			<b>Amtsgericht</b>
+			<c>Ombudsmann</c>
+			<d>#Schlichtungsausschuss der zuständigen Stelle (zB Industrie- und Handelskammer)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>34</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Die GEDOIT mbH plant den Zusammenschluss mit der Dampf KG, einem Unternehmen in einem anderen Bundesland. In einer Betriebsversammlung soll über diesen Vorschlag der Geschäftsleitung abgestimmt werden. Welche zwei, der folgenden Personengruppen dürfen an der Abstimmung teilnehmen?</question>
+		<proposals>
+			<a>#Auszubildende</a>
+			<b>Hauptamtliche Gewerkschaftsvertreter</b>
+			<c>Betriebsräte der Dampf KG</c>
+			<d>#In der GEDOIT mbH angestellte Gewerksschaftsmitglieder</d>
+		</proposals>
+	</question>
+	<question>
+		<id>35</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Nach der letzten Gehaltserhöhung übersteigt das Bruttogehalt von Helene Herz die Beitragsbemessungsgrenze für die gesetzliche Rentenversicherung. Welche der folgenenden Konsequenzen ergeben sich aus der Gehaltserhöhung? Frau Herz…</question>
+		<proposals>
+			<a>muss sich nun privat versichern.</a>
+			<b>erhält für die Sozialversicherung keinen Arbeitgeberanteil mehr.</b>
+			<c>#muss nur noch für einen Teil ihres Gehalts einen Rentenversicherungsbeitrag leisten.</c>
+			<d>kann die Beiträge an die Rentenversicherung gegen Selbstbehalt reduzieren.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>36</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>GEDOIT mbH erhält einen Auftrag für einen Lehrgang, mit dem das Unternehmen sechs Monate ausgelastet ist. Im welchem Fall würde sie nach dem Minimalprinzip handeln? Die GEDOIT mbH…</question>
+		<proposals>
+			<a>beschäftigt verschiedene Dozenten, um Abhängigkeiten zu minimieren.</a>
+			<b>#holt mehrere Angebote von Honorarkräften ein und beauftragt den günstigsten Anbieter.</b>
+			<c>bildet hinsichtlich eventueller Gewährleistungsansprüche aus diesem Geschäft eine Rückstellung, um das finanzielle Risiko zu minimieren.</c>
+			<d>gewährt dem Auftraggeber statt überlicherweise 4% nur 2% Rabatt.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>37</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die GEDOIT mbH erhält von der neu gegründeten Wurst GmbH, Klagenfurt, eine Anfrage für einen umfangreichen Auftrag. Sie sollen die Rechtsfähigkeit der Wurst GmbH prüfen. Durch welches der folgenden Ereignisse erlangt die Wurst GmbH ihre Rechtsfähigkeit?</question>
+		<proposals>
+			<a>#Eintragung in das Handelsregister</a>
+			<b>Anmeldung beim Amtsgericht</b>
+			<c>Abschluss des ersten Rechtsgeschäfts</c>
+			<d>Einzahlung des Stammkapitals</d>
+		</proposals>
+	</question>
+	<question>
+		<id>38</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>GEDOIT mbH prüft, ob sich der Verkauf gebrauchter IT-Produkte aus Leasinggeschäften lohnt und analysiert den Markt. Welcher der folgenden Fälle lässt auf einen Verkäufermarkt für gebrauchte IT-Produkte schließen? Verkäufer gebrauchter IT-Produkte…</question>
+		<proposals>
+			<a>besitzen große Lagerbestände.</a>
+			<b>melden Insolvenz an.</b>
+			<c>gewähren Rabatte.</c>
+			<d>#erzielen hohe Preise.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>39</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Dampf GmbH hat mit Ihnen einen Einzelarbeitsvertrag geschlossen. Welche der folgenden Aussagen ist in diesem Zusammenhang zutreffend? Ein Einzelarbeitsvertrag…</question>
+		<proposals>
+			<a>kann nur abgeschlossen werden, wenn für die Dampf GmbH kein gültiger Tarifvertrag vorliegt.</a>
+			<b>kann nur mit Zustimmung des Betriebsrats geschlossen werden.</b>
+			<c>#ist auch dann gültig, wenn das vereinbarte Arbeitsentgelt über dem vertraglich geregelten Tarif liegt.</c>
+			<d>darf für höchstens zwei Jahre geschlossen werden.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>40</id>
+		<diff>0</diff>
+		<type>multi</type>
+		<question>Als Mitarbeiter/-in der Dampf GmbH werden Ihnen Steuern und Sozialbeiträge vom Bruttolohn abgezogen. Welche der folgenden Aussagen zu diesem Sachverhalt treffen zu? Die Abzugsbeträge zur…</question>
+		<proposals>
+			<a>Lohnsteuer werden direkt an die Rentenempfänger weitergeleitet.</a>
+			<b>Lohnsteuer verbleibt bei der Rentenversicherung.</b>
+			<c>#Rentenversicherung werden an die Deutsche Rentenversicherung weitergeleitet.</c>
+			<d>#Rentenversicherung werden an die Rentnerinnen und Rentner ausgezahlt.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>41</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Solidarität ist ein gesellschaftliches Prinzip, das in der Bundesrepublik Deutschland angewendet wird. Welcher der folgenden Sachverhalte entspricht dem Prinzip der Solidarität?</question>
+		<proposals>
+			<a>der Staat senkt die Beitragsbemessungsgrenze für die gesetzliche Krankenkasse</a>
+			<b>#der Staat erhöt die Erbschaftssteuer zur Umverteilung großer Vermögen</b>
+			<c>Kindergartenbeiträge sind für alle Eltern, unabhängig vom Einkommen, gleich hoch</c>
+			<d>der Beitrag zur Krankenversicherung steigt mit individuellem Krankheitsrisiko des Versicherten</d>
+		</proposals>
+	</question>
+	<question>
+		<id>42</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Dampf GmbH führt Maßnahmen zur Personalentwicklung durch, u.a. werden Potenzialanalysen erstellt. Welche der folgenden Aussagen beschreibt diese Analyseform?</question>
+		<proposals>
+			<a>Vorgesetzte  sprechen mit Mitarbeitern über Aufstiegsmöglichkeiten</a>
+			<b>#Vorgesetzte versuchen, zusammen mit einzelnen Mitarbeitern/-innen herauszufinden, welche besonderen Fähigkeiten entwickelt werden könnten</b>
+			<c>das Unternehmen bietet Weiterbildungslehrgänge an</c>
+			<d>die Mitarbeiter/-innen arbeiten in Projektteams zusammen </d>
+		</proposals>
+	</question>
+	<question>
+		<id>43</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Auszubildende der Dampf GmbH diskutieren über Beispiele zur beruflichen Fortbildung. Welches der folgenden Beispiele zur beruflichen Fortbildung trifft zu?</question>
+		<proposals>
+			<a>Helmut Hamburg besucht nach dem Abschluss der mittleren Reife (MSA) die Berufsfachschule für elektronische Assistenten</a>
+			<b>eine Auszubildende der Dampf GmbH nimmt in einer überbetrieblichen Ausbildungsstätte an einem Lehrgang zur Kunstoffbearbeitung teil</b>
+			<c>ein Auszubildender mit Abitur will nach Abschluss der Ausbildung studieren</c>
+			<d>#die Auszubildende Chantalle Berlin nimmt nach der Ausbildung zur IT-Systemkauffrau an einem Fernlehrgang "Technisches Englisch" teil</d>
+		</proposals>
+	</question>
+	<question>
+		<id>44</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie sollen im Handelsregister Informationen über einen neuen Lieferer einholen. Welche der folgenden Institutionen führt das Handelsregister?</question>
+		<proposals>
+			<a>Industrie- und Handelskammer</a>
+			<b>Berufsgenossenschaft</b>
+			<c>Arbeitgeberverband</c>
+			<d>#Amtsgericht</d>
+		</proposals>
+	</question>
+	<question>
+		<id>45</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Dampf GmbH enthält zu Unternehmen mit folgenden Rechtsformen Geschäftsbeziehungen. Bei welcher der folgenden Rechtsformen haften die Unternehmer mit ihrem Privatvermögen?</question>
+		<proposals>
+			<a>Gesellschaft mit beschränkter Haftung (GmbH)</a>
+			<b>Aktiengesellschaft (AG)</b>
+			<c>#Gesellschaft bürgerlichen Rechts (GbR)</c>
+			<d>Genossenschaft (e. G.)</d>
+		</proposals>
+	</question>
+	<question>
+		<id>46</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In der Dampf GmbH werden Arbeitsplätze durch Fertigungsautomaten ersetzt. Dadurch können in derselben Arbeitszeit doppelt so viele Teile wie vorher produziert werden. Welche der folgenden Aussagen ist in diesem Zusammenhang richtig?</question>
+		<proposals>
+			<a>#die Arbeitsproduktivität wird größer</a>
+			<b>der Anteil der Lohnkosten an den Herstellungskosten für ein Teil wird größer</b>
+			<c>die Herstellungskosten für ein Teil erhöhen sich um 100 Prozent</c>
+			<d>der Anteil der Lohnkosten an den Herstellungskosten für ein Teil wird größer</d>
+		</proposals>
+	</question>
+	<question>
+		<id>47</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Europäische Arbeitnehmer haben ein Recht auf Freizügigkeit, d.h. dass sie sich in Ländern wie Spanien, Italien oder Frankreich einen Arbeitsplatz suchen können. Welche der folgenden Einrichtungen bietet Arbeitnehmern einen Service, ihre Qualifikationen und Fähigkeiten in vorbereiteten Formularen so darzustellen, dass sie europaweit verständlich sind?</question>
+		<proposals>
+			<a>UNESCO</a>
+			<b>#Nationales Europass-Center (NEC)</b>
+			<c>Bundesagentur für Arbeit</c>
+			<d>Bundesinstitut für Berufsbildung</d>
+		</proposals>
+	</question>
+	<question>
+		<id>48</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>In der Cbm GmbH soll die Stelle des Programmierers Peter Panzer, der in den Ruhestand geht, neu besetzt werden. Herr Panzer hatten einen unbefristeten Arbeitsvertrag. Welche der folgenden Aussagen zur Neubesetzung der Stelle ist zutreffend? Die Cbm GmbH…</question>
+		<proposals>
+			<a>muss die freie Stelle der Bundesagentur für Arbeit melden.</a>
+			<b>darf mit dem neuen Stelleninhaber keinen befristeten Arbeitsvertrag abschließen.</b>
+			<c>muss die Angaben in den Lebensläufen der Bewerber anhand von Originalunterlagen (z.B. Originalzeugnis) überprüfen.</c>
+			<d>#muss als Mitglied des Arbeitgeberverbands beim Abschluss des Arbeitsvertrags den aktuellen Tarifvertrag einhalten.</d>
+		</proposals>
+	</question>
+	<question>
+		<id>49</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Sie sollen neue Mitarbeiter/-innen der Dampf GmbH über Regelungen nach dem Entgeltfortzahlungsgesetz im Falle einer Arbeitsunfähigkeit informieren. Welche der folgenden Fragen im Zusammenhang mit einer ärztlich festgestellen Arbeitsunfähigkeit von Mitarbeitern/-innen müssen Sie mit "ja" beantworten?</question>
+		<proposals>
+			<a>"Muss ich mehr als ein Jahr in der Dampf GmbH gearbeitet haben, um bei Krankheit einen Anspruch auf Fortzahlung meines Arbeitsentgelts zu haben?"</a>
+			<b>"Kann ich mir zur Vorlage einer ärztlichen Bescheinigung zur Arbeitsunfähigkeit sieben Werktage Zeit lassen?"</b>
+			<c>#"Muss ich eine ärztliche Arbeitsunfähigkeitsbescheinigung vorlegen, wenn die Krankheit länger als drei Kalendertage dauert?"</c>
+			<d>"Verliere ich meinen Ansprch auf Entgeltfortzahlung im Krankheitsfall, wenn ich meine Arbeitsunfähigkeit fahrlässig verursacht habe?"</d>
+		</proposals>
+	</question>
+	<question>
+		<id>50</id>
+		<diff>0</diff>
+		<type>single</type>
+		<question>Die Sozialversicherungsbeiträge für Vollbeschäftigte müssen vom Arbeitgeber vollständig an eine der folgenden Institutionen überweisen werden. Von dort aus werden die einzelnen Beiträge an die entsprechenden Stellen weitergeleitet. An welche der folgenden Institutionen muss die DOIT GmbH die Beiträge zur Sozialversicherung überweisen?</question>
+		<proposals>
+			<a>Agentur für Arbeit</a>
+			<b>Deutsche Rentenversicherung</b>
+			<c>#Krankenkasse</c>
+			<d>Berufsgenossenschaft</d>
+		</proposals>
+	</question>
+</questions>
