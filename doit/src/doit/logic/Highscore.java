@@ -17,8 +17,8 @@ import java.util.List;
 
 public class Highscore {
 	
-//	private final static String PATH = "bin//doit//logic//scores//";
-	private final static String PATH = "csv//";//Für runnable JAR!!!
+	private final static String PATH = "bin\\doit\\logic\\scores\\";
+//	private final static String PATH = "csv//";//Für runnable JAR!!!
 	private List<Score> scoreList;
 	private Score currentScore;
 	private Quiz currentQuiz;
@@ -31,7 +31,6 @@ public class Highscore {
 		readScoreList();
 		writeScoreList();
 	}
-	
 	
 	public String getCurrentScore() {
 		DateFormat durationFormat = new SimpleDateFormat("mm:ss");
