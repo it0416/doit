@@ -40,13 +40,13 @@ public class DoitFrame {
 	private String highScoreText;
 	
 //	Für runnable JAR!!!
-	private final static String README_PATH = "info//readme.txt";
-	private final static String LOGO_PATH = "icons//DOIT.brainlogo.png";
-	private final static String ICON_PATH = "icons//DOIT.targetsize-48.png";
+//	private final static String README_PATH = "info//readme.txt";
+//	private final static String LOGO_PATH = "icons//DOIT.brainlogo.png";
+//	private final static String ICON_PATH = "icons//DOIT.targetsize-48.png";
 	
-//	private final static String README_PATH = "bin//doit//files//readme.txt";
-//	private final static String LOGO_PATH = "bin//doit//icons//DOIT.brainlogo.png";
-//	private final static String ICON_PATH = "bin//doit//icons//DOIT.targetsize-48.png";
+	private final static String README_PATH = "bin//doit//files//readme.txt";
+	private final static String LOGO_PATH = "bin//doit//icons//DOIT.brainlogo.png";
+	private final static String ICON_PATH = "bin//doit//icons//DOIT.targetsize-48.png";
 	
 	private final static String CATEGORY_MIX_FIAE = "Mix Anwendungsentwicklung";
 	private final static String CATEGORY_MIX_FISI = "Mix Systemintegration";
@@ -516,7 +516,7 @@ public class DoitFrame {
 	 
 	 private void startQuiz() {
 		 
-		 currentQuiz = new Quiz(getCategoryList(), 20, true);
+		 currentQuiz = new Quiz(getCategoryList(), 10, true);
 		 currentQuiz.setUsername(userNameEntry.getText());
 		 actionButton.setText("Beantworten");
 		 

@@ -33,8 +33,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 public class Parser {
 	
 	//relativer Pfad der XML-Dateien (Ordner)
-	private final static String PATH = "xml//";//JAR!!!
-//	private final static String PATH = "doit//xml//files//";
+	private final static String PATH = "bin\\doit\\xml\\files";
+//	private final static String PATH = "xml//";//JAR!!!
 	
 	public static File getFileResource(String path) {
 		ClassLoader classLoader = Doit.class.getClassLoader();
@@ -46,9 +46,12 @@ public class Parser {
 	private static Document getDocument(String categoryName) {
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		try {
-			File file = getFileResource(PATH + categoryName.replace(' ', '_') + ".xml");
 			DocumentBuilder builder = factory.newDocumentBuilder();
-			Document document = builder.parse(file);
+			Document document = builder.parse(PATH + "\\" + categoryName.replace(' ', '_') + ".xml");
+			//JAR--->
+//			File file = getFileResource(PATH + categoryName.replace(' ', '_') + ".xml");
+//			DocumentBuilder builder = factory.newDocumentBuilder();
+//			Document document = builder.parse(file);<---//JAR
 			return document;
 		} catch (IOException e) {
 			JOptionPane.showMessageDialog(null, e.getMessage());//Dateifehler
@@ -61,7 +64,8 @@ public class Parser {
 	//erstellt aus den XML-Dateien (Dateinamen) eine Liste der 
 	//verfügbaren Kategorien und gibt sie als String-Array zurück
 	public static String[] getCategoryList() {
-		File directory = getFileResource(PATH);
+		File directory = new File(PATH);
+//		File directory = getFileResource(PATH);//JAR
 		if(directory.exists()) {
 			String[] categories = directory.list();
 			for(int i=0; i<categories.length; i++)//Dateierweiterung entfernen!
